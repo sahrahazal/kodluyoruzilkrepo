@@ -23,6 +23,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ***
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
+***
 
 https://www.patika.dev
